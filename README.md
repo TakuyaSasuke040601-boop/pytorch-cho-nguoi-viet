@@ -2,7 +2,9 @@
 
 
 
-\*\*Team \[Điền tên team]\*\* – PyTorch Trail Blazer track VAIC2026
+\*\*Team \[Hard Game]\*\* – PyTorch Trail Blazer track VAIC2026 
+
+*Cảm ơn anh [Bryan Trang Minh Hà] đã tài trợ team ra Hà Nội thi Hackfest 16/7/2026*
 
 
 
