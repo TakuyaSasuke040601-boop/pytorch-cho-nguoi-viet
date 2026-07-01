@@ -10,7 +10,7 @@
 
 
 
-\## Bước 1: Tải Python - Giống tải Zalo
+## Bước 1: Tải Python - Giống tải Zalo
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-\## Bước 2: Cài PyTorch - Copy 1 dòng là xong
+## Bước 2: Cài PyTorch - Copy 1 dòng là xong
 
 
 
@@ -36,8 +36,9 @@
 
 2\. Màn hình đen hiện lên, copy dòng này paste vào rồi Enter:
 
-
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+```
+pip install torch torchvision torchaudio '''index-url https://download.pytorch.org/whl/cpu
+```
 
 3. Đợi 5 phút. Thấy chữ Successfully installed torch là xong.  
 
@@ -45,7 +46,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 
 
-\## Bước 3: Test - Chắc chắn 100% thành công
+## Bước 3: Test - Chắc chắn 100% thành công
 
 
 
